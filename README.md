@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dippines
+- 👀 I’m interested in space
+- 🌱 I’m currently learning kOS
