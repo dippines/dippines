@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dippines
 - 👀 I’m interested in space
-- 🌱 I’m currently learning kOS, Python, Bash, C, Assembler
+- 🌱 I’m currently learning kOS, Python, C
 - 📕 Studying Computer Science
